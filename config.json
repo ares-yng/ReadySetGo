@@ -1,0 +1,11 @@
+{ 
+  "operatePrefix" : "!",
+  "helpPrefix" : "?", 
+  "salmonRunServerName" : "Salmon Run Live Battlers",
+  "announcementChannelID" : "",
+  "botAccessRole1" : "Commentators",
+  "botAccessRole2" : "botter",
+  "activity" : "The Nearest Tourney",
+  "readyReaction" : "✅",
+  "countdownLength" : 5
+}

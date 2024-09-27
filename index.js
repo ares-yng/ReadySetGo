@@ -233,4 +233,4 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-client.login(config.token)
+client.login(process.env.BOT_TOKEN)
